@@ -1,6 +1,8 @@
 Reflections
 ===========
 
+A few things about GPS-1
+
 1. I was definitely struggling with some of the git workflow before the GPS session.
 
 2. The fetch and merge concepts were definitely clarified during the session, which was nice.
